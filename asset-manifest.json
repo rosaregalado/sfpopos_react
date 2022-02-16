@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sfpopos_react/static/css/main.c4a6cfb4.css",
+    "main.js": "/sfpopos_react/static/js/main.9698bc9f.js",
+    "index.html": "/sfpopos_react/index.html",
+    "main.c4a6cfb4.css.map": "/sfpopos_react/static/css/main.c4a6cfb4.css.map",
+    "main.9698bc9f.js.map": "/sfpopos_react/static/js/main.9698bc9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4a6cfb4.css",
+    "static/js/main.9698bc9f.js"
+  ]
+}
