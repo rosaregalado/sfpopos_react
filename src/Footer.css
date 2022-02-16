@@ -6,17 +6,10 @@
   /* align-items: baseline; */
   justify-content: center;
   /* margin-bottom: .1em; */
-  background-color: black;
+  background-color: rgb(192, 45, 26);
   color: #fff;
 }
 .Footer p {
   font-size: 20px;
   font-weight: lighter;
 }
-/* .Footer span {
-  padding: 1em;
-  margin: 1em;
-  color: rgb(192, 45, 26);
-  justify-content: center;
-  text-align: center;
-} */

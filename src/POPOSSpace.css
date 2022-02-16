@@ -1,6 +1,22 @@
 .POPOSSpace {
   width: 100%;
   text-align: center;
+  position: relative;
+}
+.POPOSSpace .POPOSSpace-title {
+  text-decoration: none;
+  color: #000;
+}
+.POPOSSpace h1 {
+  display: block;
+	position: absolute;
+	left: 0;
+	top: 0;
+	margin: 0;
+	font-weight: lighter;
+	background-color: rgba(255, 255, 255, 0.75);
+	padding: 1rem;
+	text-align: left;
 }
 .POPOSSpace > img {
   width: 100%;
@@ -9,4 +25,18 @@
 .hours {
   font-style: italic;
   color: red;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(192, 45, 26);
+}
+img:hover {
+  border: 3px solid rgb(192, 45, 26);
+}
+.POPOSSpace img {
+	width: 100%;
+	height: auto;
 }
